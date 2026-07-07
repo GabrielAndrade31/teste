@@ -380,4 +380,8 @@ footer p {
         gap: 12px;
         text-align: center;
     }
+
+    .novo {
+        display: none;
+    }
 }
