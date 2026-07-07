@@ -381,4 +381,9 @@ footer p {
         text-align: center;
     }
 
+    .teste {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+    }
 }
